@@ -1,0 +1,170 @@
+
+    .top > div {
+      font-size: 14px;
+    }
+      .top {
+        display: flex;
+        align-items: center;
+        padding: 6px;
+        margin: 0;
+      }
+      .toplf{
+        flex: 1;
+        text-align: right;
+        align-items: center;
+      }
+      .info {
+        display : inline-block;
+        padding: 5px;
+        flex: -1;
+      }
+
+      .store {
+        display : inline-block;
+        padding: 5px;
+        flex: -1;
+      }
+      a{
+        color: black;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .top{
+        height: 48px;
+        box-sizing: border-box;
+      }
+
+      .box{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      .mail{
+        padding:5px;
+      }
+      .image{
+        padding:5px;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+      .menu{
+        margin-top: 4px;
+        border-radius: 8px;
+        padding:8px;
+      }
+      .login{
+        padding:8px;
+        margin-left: 15px;
+      }
+
+      .middle{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .googlelogo{
+        margin-top:200px;
+      }
+
+      .search{
+        padding:20px;
+      }
+
+      .search{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .searchbottom{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .feeling{
+        border: 1px solid #f8f9fa;
+        background-color: rgba(239, 239, 240, 0.5);
+        border-radius: 4px;
+        font-size: 14px;
+        padding-top: 8px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: 0;
+        height: 24px;
+        text-align: center;
+        margin: 4px;
+      }
+      .lucky {
+        border: 1px solid #f8f9fa;
+        background-color: rgba(239, 239, 240, 0.5);
+        text-align: center;
+        border-radius: 4px;
+        font-size: 14px;
+        padding-top: 8px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: 0;
+        height: 24px;
+        text-align: center;
+        margin: 4px;
+      }
+
+      .korea{
+        display: flex;
+        align-items: flex-end;
+        padding: 12px 30px;
+        background-color: rgba(239, 239, 240, 0.8);
+      }
+
+      .bottom{
+        display: flex;
+        align-items: center;
+        padding-left: : 20px;
+        padding-right: 20px;
+        margin: 0;
+        padding-top: 10px;
+        background-color: rgba(239, 239, 240, 0.5);
+        font-size: 14px;
+        border-top: 0.2px solid gray;
+      }
+      .botright{
+        flex: 1;
+        text-align: right;
+        align-items: center;
+      }
+      .commercial {
+        display: inline-block;
+        padding: 10px;
+        padding-left: 30px;
+      }
+      .business {
+        display: inline-block;
+        padding: 5px;
+      }
+      .box2 {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+    .personal{
+      padding:5px;
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+    .caution{
+      padding:5px;
+      margin-left: 15px;
+      margin-right: 15px;
+
+    }
+    .setting{
+      padding:8px;
+      margin-left: 15px;
+      text-align: center;
+    }
